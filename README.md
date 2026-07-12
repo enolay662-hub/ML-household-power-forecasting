@@ -4,7 +4,7 @@
 
 ## 1. 文件结构
 * `code.ipynb`：完整可运行的代码（包含数据预处理、模型定义、训练、绘图与指标统计）。
-* `household_power_consumption.txt`：原始分钟级家庭电力数据。
+* `household_power_consumption.zip`：原始分钟级家庭电力数据。(训练之前需要解压缩)
 * `climate_75_PARIS-MONTSOURIS_2006-2010_required_columns.csv`：Paris-Montsouris 气象观测数据。
 
 ## 2. 快速开始
